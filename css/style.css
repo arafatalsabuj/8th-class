@@ -1,0 +1,29 @@
+.box1{
+	width: 100px;
+	height: 100px;
+	background: green;
+	padding:50px;
+	border-bottom: 5px solid #ff0000;
+	margin: 20px;
+}
+.box2{
+	width: 100px;
+	height: 100px;
+	background: blue;
+	margin: 100px 5 0px;
+	/*top-bottom, left-right*/
+}
+.two{display: inline;
+}
+.three{display: inline;
+}
+body {
+  background-color: #CCFFFF
+}
+.one{
+	font-size:40px;color: blue;border:10px dashed yellow;
+	background-color: green
+
+/*h3{
+	background-color: blue
+}*/
